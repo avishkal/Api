@@ -1,0 +1,14 @@
+{
+  "name": "licensed-movie-api",
+  "version": "1.0.0",
+  "description": "API for REAPER-MD movie plugin",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.6.8"
+  }
+}
+
